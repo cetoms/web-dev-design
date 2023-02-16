@@ -1,0 +1,214 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  color: #03c988;
+  font-size: 170px;
+  font-family: "Sacramento", cursive;
+  margin: 0 0;
+  padding-top: 200px;
+}
+h2 {
+  color: #03c988;
+  margin-top: 100px;
+  font-family: "Krub", sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  margin: 0;
+  padding-top: 1opx;
+  color: #03c988;
+  font-size: 2rem;
+  font-family: "Kreon", serif;
+}
+
+p {
+  font-family: "Markazi Text", serif;
+  line-height: 1;
+  font-size: 2.5rem;
+  width: 30%;
+  margin: auto auto 100px auto;
+}
+
+.p1 {
+  color: #03c988;
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  right: 225px;
+  font-size: 25px;
+}
+.p2 {
+  color: #03c988;
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  right: 150px;
+  font-size: 25px;
+}
+.p3 {
+  color: #03c988;
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  right: 75px;
+  font-size: 25px;
+}
+.top-container {
+  background-color: #e3f6ff;
+  height: 800px;
+}
+
+.top-image {
+  height: 80px;
+  width: 80px;
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  left: 80px;
+}
+
+.cloud1 {
+  background-color: #e3f6ff;
+  display: inline-block;
+  position: absolute;
+  top: 300px;
+  right: 75px;
+}
+
+.cloud2 {
+  background-color: #e3f6ff;
+  display: inline-block;
+  position: absolute;
+  top: 420px;
+  left: 85px;
+}
+
+.mountain {
+  display: inline-block;
+  position: relative;
+  top: 58px;
+}
+
+.icon1 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.icon2 {
+  float: left;
+  margin-left: 200px;
+}
+
+.icon3 {
+  float: right;
+  display: inline;
+  margin-right: 200px;
+}
+
+hr {
+  border: dotted;
+  border-bottom: none;
+
+  width: 3%;
+}
+
+.what {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.eye {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  position: relative;
+  right: 660px;
+  top: 15px;
+}
+.screen {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  position: relative;
+  left: 580px;
+  top: 15px;
+}
+
+.line1 {
+  width: 1%;
+  display: inline-block;
+  position: relative;
+  right: 585px;
+}
+
+.line2 {
+  width: 1%;
+  display: inline-block;
+  position: relative;
+  left: 585px;
+}
+.what {
+  width: 100%;
+  margin: auto;
+}
+
+.design {
+  margin-left: 0;
+  width: 70%;
+}
+
+.develop {
+  width: 100%;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #e3f6ff;
+  height: 200px;
+}
+
+a {
+  text-decoration: none;
+  color: #03c988;
+  font-size: 1.2rem;
+  display: inline-block;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+a:hover {
+  color: blue;
+}
+
+.last {
+  font-size: 1rem;
+  color: #03c988;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.buttonClass {
+  margin-bottom: 50px;
+  margin-top: 0px;
+  font-size: 15px;
+  font-family: Arial;
+  width: 140px;
+  height: 28px;
+  border-width: 1px;
+  color: #fff;
+  border-color: #18ab29;
+  font-weight: bold;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  text-shadow: 1px 1px 0px #2f6627;
+  background: linear-gradient(rgba(60, 211, 101, 1), rgba(51, 105, 20, 1));
+}
+
+.buttonClass:hover {
+  background: linear-gradient(rgba(51, 105, 20, 1), rgba(60, 211, 101, 1));
+}
